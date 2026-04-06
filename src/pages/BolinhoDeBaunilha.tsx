@@ -31,7 +31,7 @@ function BolinhoDeBaunilha() {
         </div>
         <button
           className="counter"
-          onClick={() => setCount((count) => (count = 1))}
+          onClick={() => setCount(1)}
         >
           <svg
             className="icon"
